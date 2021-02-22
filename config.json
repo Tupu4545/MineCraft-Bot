@@ -1,0 +1,9 @@
+{
+    "host": "test.aternos.me",
+    "port": 60233,
+    "username": "urusername",
+
+    "token_discord": "tokendude",
+    "channel": "channelid",
+    "prefix": "#"
+}
