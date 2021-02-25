@@ -1,12 +1,12 @@
 {
-  "name": "op",
+  "name": "Minecraft-Bot",
   "version": "1.0.0",
   "description": "this is a bot with serious coding i guess :/",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "yukesh",
+  "author": "sudo216",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.0",
