@@ -9,7 +9,7 @@ const bot = mineflayer.createBot({
     username: config.username
 })
 bot.on('login', async =>{
-    //bot.chat('/login yougsh216')//if there is any freaking passwords login :/
+    //bot.chat('/login password')//if there is any freaking passwords login :/
     console.log('Iam in the server :D')
 })
 client.on('ready', async =>{
