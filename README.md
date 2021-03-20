@@ -27,7 +27,7 @@ A MineCraft Bot - java
 ## 🐛 Found a bug?
 Report report the bug by creating a new issue.
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/sudo216)
 
-[![test](https://user-images.githubusercontent.com/25097841/101589531-a2c98100-3a0e-11eb-872e-fefa791aaaf6.gif)](https://github.com/Tupu4545/MineCraft-Bot)
-
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
+[![test](https://user-images.githubusercontent.com/25097841/101589531-a2c98100-3a0e-11eb-872e-fefa791aaaf6.gif)]
+i know i sus making tutorial :/
